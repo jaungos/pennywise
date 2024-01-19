@@ -348,17 +348,14 @@ Details needed:
 
 ## Authors <a id="authors" name='authors'></a>
 
-**Karl Kenneth Owen D. Olipas**
+- **Karl Kenneth Owen D. Olipas**
+    - kdolipas@up.edu.ph
 
-kdolipas@up.edu.ph
+- **Jerico Luis A. Ungos**
+    - jaungos@up.edu.ph
 
-**Jerico Luis A. Ungos**
-
-jaungos@up.edu.ph
-
-**Geraldine Marie M. Viray**
-
-gmviray@up.edu.ph
+- **Geraldine Marie M. Viray**
+    - gmviray@up.edu.ph
 
 [mariadb_link]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
 [python_link]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
