@@ -1,7 +1,7 @@
 <a id= "readme-top" name="readme-top"></a>
 <h1 align="center"> PENNYWISE </h1>
 
-<p align="center">Pennywise is an expense tracking application for effortless expense management and seamless sharing with friends and family. Say goodbye to the hassle of tracking who owes whom. With Pennywise, you can easily manage your personal and group expenses, making it a piece of cake to keep tabs on the money you borrowed and/or lended over time.</p>
+<p align="center">Pennywise is a terminal-based expense tracking application for effortless expense management and seamless sharing with friends and family. Say goodbye to the hassle of tracking who owes whom. With Pennywise, you can easily manage your personal and group expenses, making it a piece of cake to keep tabs on the money you borrowed and/or lended over time.</p>
 
 <div align="center">
 
